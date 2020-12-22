@@ -5,7 +5,7 @@
 ## Meu nome é Natasha, mas pode me chamar de Naty! :wink:
  
 Tenho 33 anos e atualmente estou morando em Nova Odessa/SP. 
-Sou uma pessoa curiosa por natureza e minhas experiências me tornaram cada vez mais resiliente. Estou cursando análise e desenvolvimento de sistemas pela Senac EAD e estou dedicando meus estudos extras para Front End. Mas meu objetivo a médio/longo prazo é me tornar uma desenvolvedora Full Stack.
+Sou uma pessoa curiosa por natureza e minhas experiências me tornaram cada vez mais resiliente. Estou cursando análise e desenvolvimento de sistemas pela Senac EAD e estou dedicando meus estudos extras para Front End. Meu objetivo a médio/longo prazo é me tornar uma desenvolvedora Full Stack.
 Estou super feliz com minha escolha em trilhar essa carreira e cada vez que aprendo mais, mais me apaixono por esse mundo Dev! :heart_eyes:
  
  
