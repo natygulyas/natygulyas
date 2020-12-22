@@ -9,6 +9,7 @@ Sou uma pessoa curiosa por natureza e minhas experiências me tornaram cada vez 
 Estou super feliz com minha escolha em trilhar essa carreira e cada vez que aprendo mais, mais me apaixono por esse mundo Dev! :heart_eyes:
  
  
+ 
 ## Quer saber mais sobre mim? :blush:
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/natygulyas)](https://github.com/natygulyas)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/natasha-gulyas-b94b521bb/)](https://www.linkedin.com/in/natasha-gulyas-b94b521bb/)
