@@ -1,13 +1,10 @@
-<img align="right" width="200" height="400" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/86a1087d-8f23-4b88-b40e-01f0651e223e/d4wfa3p-1158d793-81b7-458c-843a-5691b36b03c5.jpg">
+## Oláááá mundo! <img align="right" width="400" height="250" src="https://i0.wp.com/echaintechnology.com/wp-content/uploads/2018/12/echain_connected_world.gif?fit=480%2C270&ssl=1">
  
-## Olá mundo! :earth_americas:
- 
-## Meu nome é Natasha, mas pode me chamar de Naty! :wink:
+## Meu nome é Natasha, mas pode me chamar de Naty!
  
 Tenho 33 anos e atualmente estou morando em Nova Odessa/SP. 
 Sou uma pessoa curiosa por natureza e minhas experiências me tornaram cada vez mais resiliente. Estou cursando análise e desenvolvimento de sistemas pela Senac EAD e estou dedicando meus estudos extras para Front End. Meu objetivo a médio/longo prazo é me tornar uma desenvolvedora Full Stack.
 Estou super feliz com minha escolha em trilhar essa carreira e cada vez que aprendo mais, mais me apaixono por esse mundo Dev! :heart_eyes:
- 
  
  
 ## Quer saber mais sobre mim? :blush:
@@ -16,7 +13,8 @@ Estou super feliz com minha escolha em trilhar essa carreira e cada vez que apre
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=seu_telefone_55+11+95392-6075&text=Hello!)](https://api.whatsapp.com/send?phone=seu_telefone_55+11+953926075&text=Hello!)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:natashagulyas@gmail.com)](mailto:natashagulyas@gmail.com)
  
-Obrigada por sua visita!!:heart_decoration:
  
-Volte sempre! :wave:
+ Obrigada pela visita, volte sempre!
+ 
+ <img align="left" width="300" height="300" src="https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif">
 
