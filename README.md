@@ -18,8 +18,8 @@ Estou super feliz com minha escolha em trilhar essa carreira e cada vez que apre
 <img align="center" width="1000" height="20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPbTkrQajODkD89iHSwXs0WuPfuw55L03ZbQ&usqp=CAU">
  
  
-##Obrigada pela visita e volte sempre!                                                     
+<p align="center">Obrigada pela visita e volte sempre!</p>                                                     
  
-   <img align="left" width="150" height="100" src="https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif">
+<p align="center"><img width="160" height="110" src="https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif"></p>
 
 <img align="center" width="1000" height="20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPbTkrQajODkD89iHSwXs0WuPfuw55L03ZbQ&usqp=CAU">
