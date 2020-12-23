@@ -1,6 +1,6 @@
 <img align="center" width="1050" height="20" src="https://images2.pixlis.com/background-image-horizontal-lines-and-stripes-seamless-tileable-deep-pink-black-22hvwy.png">
 
-## Hello world!<img align="center" width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Rotating_earth_%28large%29.gif"> <img align="right" width="350" height="500" src="https://i.pinimg.com/originals/4e/87/e8/4e87e8eeed2d0c2e72308e9395dedf6a.jpg">
+## Hello world!<img align="center" width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Rotating_earth_%28large%29.gif"> <img align="right" width="300" height="450" src="https://i.pinimg.com/originals/4e/87/e8/4e87e8eeed2d0c2e72308e9395dedf6a.jpg">
 
  
 ## Meu nome é Natasha, mas pode me chamar de Naty!
