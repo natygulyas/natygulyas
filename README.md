@@ -1,6 +1,6 @@
 <img align="center" width="1000" height="20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPbTkrQajODkD89iHSwXs0WuPfuw55L03ZbQ&usqp=CAU">
 
-## Oláááá mundo! <img align="right" width="400" height="250" src="https://i0.wp.com/echaintechnology.com/wp-content/uploads/2018/12/echain_connected_world.gif?fit=480%2C270&ssl=1">
+## Oláááá mundo! <img align="right" width="400" height="300" src="https://i.pinimg.com/originals/20/81/27/2081270ee56f88c770bff6bd05867e05.gif">
  
 ## Meu nome é Natasha, mas pode me chamar de Naty!
  
