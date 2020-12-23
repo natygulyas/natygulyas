@@ -1,6 +1,6 @@
 <img align="center" width="1000" height="20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPbTkrQajODkD89iHSwXs0WuPfuw55L03ZbQ&usqp=CAU">
 
-## Oláááá mundo! <img align="right" width="400" height="300" src="https://i.pinimg.com/originals/20/81/27/2081270ee56f88c770bff6bd05867e05.gif">
+## Oláááá mundo! <img align="right" width="500" height="500" src="https://i.pinimg.com/originals/ee/3e/ed/ee3eed37a2063d4620172c6e6b1231dd.gif">
  
 ## Meu nome é Natasha, mas pode me chamar de Naty!
  
