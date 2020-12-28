@@ -9,6 +9,7 @@
 Sou uma pessoa curiosa por natureza e minhas experiências me tornaram cada vez mais resiliente. Adoro cachorros, natureza, tecnologia e viagens. 
 Sempre me interessei pela área de TI, mas só agora tive a oportunidade e decidi me dedicar e me profissionalizar. Estou cursando análise e desenvolvimento de sistemas e focando meus estudos extras para Front End. Meu objetivo a médio/longo prazo é me tornar uma desenvolvedora Full Stack.
 Estou super feliz com minha escolha em trilhar essa carreira e cada vez que aprendo mais, mais me apaixono por esse mundo! :heart_eyes:
+  
   Cada projeto por mais pequeno ou básico que pareça contribui para a evolução.São pequenos passos porém constantes que nos levam longe. Portanto postarei cada desafio, cada projeto, seja de BootCamps, labs ou ideias "bobas" minhas que de alguma forma está contribuindo ou contribuiu para minha evolução como Dev. No futuro sei que olharei com carinho e orgulho de cada baby step.  
  
  
