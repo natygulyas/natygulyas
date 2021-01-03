@@ -14,7 +14,6 @@ Estou super feliz com minha escolha em trilhar essa carreira e cada vez que apre
  
  
 ## Quer saber mais sobre mim? :blush:
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/natygulyas)](https://github.com/natygulyas)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/natasha-gulyas-b94b521bb/)](https://www.linkedin.com/in/natasha-gulyas-b94b521bb/)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=seu_telefone_55+11+95392-6075&text=Hello!)](https://api.whatsapp.com/send?phone=seu_telefone_55+11+953926075&text=Hello!)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:natashagulyas@gmail.com)](mailto:natashagulyas@gmail.com)
