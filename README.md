@@ -13,7 +13,6 @@ Estou super feliz com minha escolha em trilhar essa carreira e cada vez que apre
  
 ## Quer saber mais sobre mim? :blush:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/natasha-gulyas-b94b521bb/)](https://www.linkedin.com/in/natasha-gulyas-b94b521bb/)
-
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:natashagulyas@gmail.com)](mailto:natashagulyas@gmail.com)
 
 
